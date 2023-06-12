@@ -1,4 +1,4 @@
-/* Created CSS variables at the root of the document to be used throughout the style sheet */
+/* created CSS variables at the root of the document to be used throughout the style sheet */
 :root {
     --dark-blue: #0B2027;
     --blue: #40798C;
@@ -7,6 +7,12 @@
     --yellow: #F6F1D1;
 }
 
+/* created smooth scroll feature across the whole page */
+html {
+    scroll-behavior: smooth;
+}
+
+/* created formatting to be used across the body of the webpage */
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 16px;
@@ -16,20 +22,24 @@ body {
     justify-content: flex-start;
 }
 
+/* formatting for page heading */
 h1 {
     font-size: 2.5rem;
     margin-bottom: 10px;
 }
 
+/* wraps body of the biography text */
 h1 p {
     text-align: justify;
 }
 
+/* formatting for section headers */
 h2 {
     font-size: 1.5rem;
     margin-bottom: 10px;
 }
 
+/* project header formatting */
 header {
     padding: 40px;
     text-align: left;
@@ -37,29 +47,37 @@ header {
     color: var(--dark-blue);
 }
 
+/* nav bar formatting */
 nav {
     display: flex;
     background-color: var(--tan);
-    scroll-behavior: smooth;
 }
 
+/* formatting for list items in the nav bar */
 nav a {
     color: var(--dark-blue);
     padding: 14px 20px;
     text-decoration: none;
     text-align: center;
-    scroll-behavior: smooth;
 }
 
+/* makes nav bar items change color when mouse hovers */
 nav a:hover {
     background-color: var(--yellow);
     color: var(--dark-blue);
 }
 
+/* creates margin on the left of the About Me section */
 .about-me {
     margin-left: 50px;
 }
 
+/* creates margin on the left of the My Work heading */
+.my-work {
+    margin-left: 50px;
+}
+
+/* shrinks and right-aligns profile photo */
 .profile-picture {
     display: flex;
     justify-content: left;
@@ -67,6 +85,7 @@ nav a:hover {
     height: 200px;
 }
 
+/* formatting for project section - aligns and justifies flexboxes */
 .projects {
     flex: 1;
     background-color: var(--white);
@@ -76,11 +95,14 @@ nav a:hover {
     justify-content: space-evenly;
 }
 
+/* makes project 1 larger than the others */
+/* !!! Flex Grow?? !!! */
 #project1 {
     width: auto;
     height: 500px;
 }
 
+/* formatting for the individual flexboxes containing the projects */
 .application {
     border-style: solid;
     border-width: 1px;
@@ -89,19 +111,23 @@ nav a:hover {
     margin: 20px;
 }
 
+/* creates padding for the project headings */
 .application>header {
     padding: 20px;
 }
 
+/* aligns project descriptions */
 .application>p {
     text-align: center;
 }
 
+/* creates a standard size for all project images */
 .application>img {
     width: 100%;
     height: 300px;
 }
 
+/* formatting for Contact Me section */
 .contact-me {
     width: 100%;
     bottom: 0;
@@ -111,6 +137,7 @@ nav a:hover {
     color: var(--dark-blue);
 }
 
+/* creates adaptive layout (into columns) for accessibility from different devices */
 @media screen and (max-width: 768px) {
 
     main,

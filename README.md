@@ -10,7 +10,7 @@ https://sophiawilliams16.github.io/sophia-williams-portfolio/
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Badges] (#badges)
+- [Badges](#badges)
 
 ## Installation
 
@@ -34,7 +34,9 @@ Sources:
 3. Coolors color palette: https://coolors.co/user/palettes/64866ca584af9f000c8a3ebd 
 4. Resizing photos: https://stackoverflow.com/questions/5969114/how-do-i-make-an-image-smaller-with-css 
 5. Hash links: https://css-tricks.com/a-complete-guide-to-links-and-buttons/ 
-6. Smooth Scroll 
+6. Smooth Scroll: https://css-tricks.com/snippets/jquery/smooth-scrolling/
+7. Office Hours with Charlie to help with aligning flexboxes. 
+8. README File Formatting: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
 
 Image Sources: 
 1. "Arch" https://www.pinterest.com/pin/457889487128664920/

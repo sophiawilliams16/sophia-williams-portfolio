@@ -1,19 +1,15 @@
-import { useState } from 'react';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
-import Header from './components/Header';
+// Bringing in the required import from 'react-router-dom'
+import { Outlet } from 'react-router-dom';
 import Navigation from './components/Navigation';
-import Footer from './components/Footer';
-import './App.css'
 
 function App() {
+  // The Outlet component will conditionally swap between the different pages according to the URL
   return (
-    <div>
-      <Header />
-      <Navigation/>
-      <Footer/>
-    </div>
+    <>
+      <Navigation />
+      <Outlet />
+    </>
   );
-};
+}
 
 export default App;

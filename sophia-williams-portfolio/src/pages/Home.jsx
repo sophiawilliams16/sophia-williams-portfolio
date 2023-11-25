@@ -1,13 +1,15 @@
 import React from "react";
-import Navigation from "../components/Navigation";
-import Bio from "../components/Bio";
+import Title from "../components/Title/Title";
+import Project from "../components/Project/Project";
+import About from "../components/About/About";
 import Footer from "../components/Footer";
 
 function Home() {
     return (
         <div>
-            <Navigation />
-            <Bio />
+            <Title />
+            {/* <Project /> */}
+            <About />
             <Footer />
         </div>
     );

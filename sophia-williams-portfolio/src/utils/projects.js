@@ -1,7 +1,7 @@
 const projectList = [
     {
         id: 1,
-        title: "GenVest",
+        title: "ZenVest",
         description: "Digital finance app for GenZ",
         view_link: "",
         git_link: "",

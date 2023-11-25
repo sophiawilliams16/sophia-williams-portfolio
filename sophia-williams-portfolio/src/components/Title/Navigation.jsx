@@ -6,16 +6,21 @@ function Navigation() {
     //const handleClick = () => setNav(!nav);
     
     return (
-    <div className='container'>
-        <ul className='list-group'>
+    <div className='flex justify-end mr-2'>
+        <ul className='list-group grid grid-cols-3'>
             <li>
-            <Link to='home'>
-                Home
+            <Link to='project'>
+                Work
             </Link>
             </li>
             <li>
-            <Link to='portfolio'>
-                Portfolio
+            <Link to='about'>
+                About
+            </Link>
+            </li>
+            <li>
+            <Link to='footer'>
+                Contact
             </Link>
             </li>
         </ul>

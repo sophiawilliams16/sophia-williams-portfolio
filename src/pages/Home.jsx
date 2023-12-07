@@ -6,9 +6,9 @@ import Footer from "../components/Footer";
 
 function Home() {
     return (
-        <div>
+        <div className="font-extralight">
             <Title />
-            {/* <Project /> */}
+            <Project />
             <About />
             <Footer />
         </div>

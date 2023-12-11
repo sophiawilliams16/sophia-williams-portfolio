@@ -5,10 +5,10 @@ function Bio() {
 
     return (
         <div>
-            <h1 className="text-center">About Me</h1>
-            <p className="text-center">Sophia is a New York City based product-focused Full Stack Developer specializing in javascript. Coming from a background in finance and modeling, she has found her passion in building beautiful, functional technology from the inside out.</p>
+            <h1 className="text-center p-5 text-3xl">About Me</h1>
+            <p className="text-center px-20">Sophia is a New York City based product-focused Full Stack Developer specializing in javascript. Coming from a background in finance and modeling, she has found her passion in building beautiful, functional technology from the inside out.</p>
             <br />
-            <h1 className="text-center">skills</h1>
+            <h1 className="text-center p-5">Skills</h1>
 
         </div>
 

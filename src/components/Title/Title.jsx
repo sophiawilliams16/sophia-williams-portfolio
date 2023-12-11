@@ -20,16 +20,16 @@ function Title() {
             <Navigation />
             <div className="grid grid-cols-2">
                 <div className="w-full h-full my-20 pl-2">
-                    <h1 className="md:text-6xl text-4xl"> {"{sophia williams}"} </h1>
-                    <p className="pl-4 italic">developing beautiful, functional technology from the inside out</p>
+                    <h1 className="md:text-6xl text-4xl pl-4"> {"{sophia williams}"} </h1>
+                    <p className="pl-4 pt-2 italic">developing beautiful, functional technology from the inside out</p>
                     <div className="grid grid-cols-3 pl-4 mt-5 md:text-s text-xs space-x-3">
                         <button className="border-2 border-light-gray rounded-3xl p-1" onClick={handleShowModal}>view my resume</button>
                         <a className="border-2 border-light-gray rounded-3xl p-1 text-center" href="mailto:sophiaashleighwilliams@gmail.com">send me an email</a>
                         <a className="border-2 border-light-gray rounded-3xl p-1 text-center" href="https://github.com/sophiawilliams16">browse my github</a>
                     </div>
                 </div>
-                <div className="justify-self-center w-1/2 h-1/2">
-                    <img className="" src="../../assets/profile.jpg" alt="sophia williams profile photo" />
+                <div className="justify-self-center p-10">
+                    <img className="" src="../../assets/AIsophia.png" alt="sophia williams profile photo" />
                 </div>
             </div>
 

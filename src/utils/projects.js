@@ -5,7 +5,7 @@ const projectList = [
         description: "Digital finance app for GenZ",
         view_link: "https://zenvest-60807e9e13ea.herokuapp.com/",
         git_link: "https://github.com/sophiawilliams16/zenvest",
-        img: "./images/zenvest.png",
+        img: "../../assets/zenvest.png",
         tech: "React, Javascript, MongoDB, Node",
     },
     {
@@ -15,17 +15,16 @@ const projectList = [
         view_link:
             "https://tech-blog-sophiawilliams-93e01027bee7.herokuapp.com/",
         git_link: "https://github.com/sophiawilliams16/tech-blog",
-        img: "./images/comingsoon.png",
+        img: "../../assets/comingsoon.png",
         tech: "NoSQL, Javascript",
     },
     {
         id: 3,
         title: "AMA CLI Prompt Application",
         description: "OpenAI Powered Tutor",
-        view_link:
-            "",
+        view_link: "",
         git_link: "https://github.com/sophiawilliams16/AMA-CLI-Application",
-        img: "./images/comingsoon.png",
+        img: "../../assets/comingsoon.png",
         tech: "OpenAI, Javascript",
     },
     {
@@ -34,7 +33,7 @@ const projectList = [
         description: "Random Recipie Generator",
         view_link: "https://dupeaj.github.io/RandomRecipe/",
         git_link: "https://github.com/sophiawilliams16/RandomRecipe",
-        img: "./images/comingsoon.png",
+        img: "../../assets/comingsoon.png",
         tech: "NoSQL, Javascript",
     },
     {
@@ -43,7 +42,7 @@ const projectList = [
         description: "Blog about tech",
         view_link: "https://sophiawilliams16.github.io/weather-forecast/",
         git_link: "https://github.com/sophiawilliams16/weather-forecast2",
-        img: "./images/comingsoon.png",
+        img: "../../assets/weather.png",
         tech: "HTML, CSS",
     },
     {
@@ -52,7 +51,7 @@ const projectList = [
         description: "Dynamic Work Day Schedule",
         view_link: "https://sophiawilliams16.github.io/dynamic-schedule/",
         git_link: "https://github.com/sophiawilliams16/dynamic-schedule",
-        img: "./images/comingsoon.png",
+        img: "../../assets/comingsoon.png",
         tech: "Javascript, Bootstrap, JQuery",
     },
 ];

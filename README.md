@@ -1,51 +1,31 @@
 # Sophia-Williams-Portfolio
-My name is Sophia Williams and I am a web developer! I've developed a website to present five of my best projects in a concise and easily accessible format. Take a look at my work! 
 
-https://sophiawilliams16.github.io/sophia-williams-portfolio/
-
+My name is Sophia Williams and I am a web developer! I've developed a website to present five of my best projects in a concise and easily accessible format. Take a look at my work!
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Badges](#badges)
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Credits](#credits)
+-   [License](#license)
+-   [Badges](#badges)
 
 ## Installation
 
 To install the project, download the files from my Github repository here: https://github.com/sophiawilliams16/sophia-williams-portfolio
 
-and open the project in VS Code. 
+and open the project in VS Code.
 
 ## Usage
 
-To visit my site, click here: https://sophiawilliams16.github.io/sophia-williams-portfolio/ 
-
-![Screenshot 1](assets/screenshot1.png)
-
-![Screenshot 2](assets/screenshot2.png)
+To visit my site, click here: https://sophiawilliams16.github.io/sophia-williams-portfolio/
 
 ## Credits
 
-Sources: 
-1. Used 02-Advanced-CSS-HTML Activity 26 as a template to hand-code the structure of the html and CSS pages 
-2. Mailto link html https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html 
-3. Coolors color palette: https://coolors.co/user/palettes/64866ca584af9f000c8a3ebd 
-4. Resizing photos: https://stackoverflow.com/questions/5969114/how-do-i-make-an-image-smaller-with-css 
-5. Hash links: https://css-tricks.com/a-complete-guide-to-links-and-buttons/ 
-6. Smooth Scroll: https://css-tricks.com/snippets/jquery/smooth-scrolling/
-7. Office Hours with Charlie to help with aligning flexboxes. 
-8. README File Formatting: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
-
-Image Sources: 
-1. "Arch" https://www.pinterest.com/pin/457889487128664920/
-2. "Building" https://www.pinterest.com/pin/457889487128789521/ 
-3. "Render" https://www.pinterest.com/pin/132645151518409897/ 
-4. "Skylight" https://www.pinterest.com/pin/457889487128663377/ 
-5. "Stairs" https://www.pinterest.com/pin/457889487128664933/
+Image Sources
 
 ## License
+
 MIT License
 
 Copyright (c) 2023 Sophia Williams
@@ -71,5 +51,3 @@ SOFTWARE.
 ## Badges
 
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-

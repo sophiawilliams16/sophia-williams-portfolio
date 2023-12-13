@@ -5,7 +5,7 @@ function Project() {
     console.log("Project loaded successfully");
 
     return (
-        <div className='bg-med-gray'>
+        <div id="project" className='bg-med-gray'>
             <div className='overflow-x-scroll scrollbar-hide'>
                 <div className='flex flex-no-wrap'>
                     {projectList.map((project) => (

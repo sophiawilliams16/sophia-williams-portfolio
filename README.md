@@ -23,6 +23,8 @@ To visit my site, click here: https://sophiawilliams16.github.io/sophia-williams
 ## Credits
 
 Image Sources
+- [Javascript](https://iconscout.com/icons/javascript)
+
 
 ## License
 

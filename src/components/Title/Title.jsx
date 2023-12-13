@@ -28,13 +28,13 @@ function Title() {
                         <a className="border-2 border-light-gray rounded-3xl p-1 text-center" href="https://github.com/sophiawilliams16">browse my github</a>
                     </div>
                 </div>
-                <div className="justify-self-center p-10">
+                <div className="justify-self-center sm:p-10 md:p-20 max-w-2xl">
                     <img className="" src="../../assets/AIsophia.png" alt="sophia williams profile photo" />
                 </div>
             </div>
 
             <div className="flex justify-end mr-2">
-                <button>discover my work</button>
+                <a href="#project">discover my work</a>
             </div>
 
             <Modal isOpen={showModal} onClose={handleCloseModal} resumeUrl="../assets/sophiawilliams.pdf" />

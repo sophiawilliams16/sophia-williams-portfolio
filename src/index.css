@@ -6,6 +6,10 @@
   font-family: 'Spectral', serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
 	-ms-overflow-style: none;
 	scrollbar-width: none;

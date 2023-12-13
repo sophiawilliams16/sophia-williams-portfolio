@@ -4,7 +4,7 @@ function About() {
     console.log("Bio loaded successfully");
 
     return (
-       <div className="bg-light-gray p-10">
+       <div id="about" className="bg-light-gray p-10 px-60">
             <Bio />
         </div>
 

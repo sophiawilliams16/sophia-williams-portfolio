@@ -29,7 +29,7 @@ function Title() {
                     </div>
                 </div>
                 <div className="justify-self-center sm:p-10 md:p-20 max-w-2xl">
-                    <img className="" src="../../assets/AIsophia.png" alt="sophia williams profile photo" />
+                    <img className="" src="./assets/AIsophia.png" alt="sophia williams profile photo" />
                 </div>
             </div>
 

@@ -23,7 +23,8 @@ const projectList = [
     {
         id: 3,
         title: "RandomRecipe.com",
-        description: "Random Recipie Generator. Select your categories to randomly generate a recipie and a cocktail pairing.",
+        description:
+            "Random Recipie Generator. Select your categories to randomly generate a recipie and a cocktail pairing.",
         view_link: "https://dupeaj.github.io/RandomRecipe/",
         git_link: "https://github.com/sophiawilliams16/RandomRecipe",
         img: "../../assets/rare.png",
@@ -53,7 +54,7 @@ const projectList = [
         description: "Weather dashboard using Open Weather Map API",
         view_link: "https://sophiawilliams16.github.io/weather-forecast/",
         git_link: "https://github.com/sophiawilliams16/weather-forecast2",
-        img: "../../assets/weather.png",
+        img: "../../assets/comingsoon.png",
         tech: "HTML, CSS",
     },
 ];

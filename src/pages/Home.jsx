@@ -8,8 +8,8 @@ function Home() {
     return (
         <div className="font-extralight">
             <Title />
-            <Project />
             <About />
+            <Project />
             <Footer />
         </div>
     );

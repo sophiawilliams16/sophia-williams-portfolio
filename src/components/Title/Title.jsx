@@ -33,7 +33,7 @@ function Title() {
                 </div>
             </div>
 
-            <div className="flex justify-end mr-2">
+            <div className="flex justify-end mr-2 animate-bounce text-lg">
                 <a href="#project">discover my work</a>
             </div>
 

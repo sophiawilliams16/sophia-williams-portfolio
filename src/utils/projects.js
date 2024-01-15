@@ -18,7 +18,7 @@ const projectList = [
             "https://tech-blog-sophiawilliams-93e01027bee7.herokuapp.com/",
         git_link: "https://github.com/sophiawilliams16/tech-blog",
         img: "../../assets/mindscape.png",
-        tech: "NoSQL, Javascript, Handlebars",
+        tech: "SQL, Javascript, Handlebars",
     },
     {
         id: 3,
@@ -28,7 +28,7 @@ const projectList = [
         view_link: "https://dupeaj.github.io/RandomRecipe/",
         git_link: "https://github.com/sophiawilliams16/RandomRecipe",
         img: "../../assets/rare.png",
-        tech: "NoSQL, Javascript",
+        tech: "SQL, Javascript, HTML/CSS",
     },
     {
         id: 4,

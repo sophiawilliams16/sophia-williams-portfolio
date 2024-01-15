@@ -10,13 +10,13 @@ function Navigation() {
     <div className='flex justify-end p-5 text-white text-lg'>
         <ul className='list-group grid grid-cols-3'>
             <li>
-            <a href='#project'>
-                Work
+            <a href="#about">
+                About
             </a>
             </li>
             <li>
-            <a href="#about">
-                About
+            <a href='#project'>
+                Work
             </a>
             </li>
             <li>

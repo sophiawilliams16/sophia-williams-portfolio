@@ -7,7 +7,7 @@ function Navigation() {
     //const handleClick = () => setNav(!nav);
     
     return (
-    <div className='flex justify-end p-5 text-white text-lg'>
+    <div className='flex text-center justify-end p-5 text-gray-700 text-lg'>
         <ul className='list-group grid grid-cols-3'>
             <li>
             <a href="#about">

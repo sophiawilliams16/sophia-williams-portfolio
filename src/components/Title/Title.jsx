@@ -5,10 +5,10 @@ import React, { useState } from 'react';
 function Title() {
     console.log("Title loaded successfully");
 
-    const backgroundImageStyle = {
-        backgroundImage: `url(../../assets/background2.jpeg)`,
-        backgroundSize: 'cover',
-    };
+    // const backgroundImageStyle = {
+    //     backgroundImage: `url(../../assets/background2.jpeg)`,
+    //     backgroundSize: 'cover',
+    // };
 
     const [showModal, setShowModal] = useState(false);
 
@@ -16,7 +16,7 @@ function Title() {
     const handleCloseModal = () => setShowModal(false);
 
     return (
-        <div className="bg-fixed text-light-gray" style={backgroundImageStyle}>
+        <div className="bg-fixed text-gray-700">
             <Navigation />
             <div className="grid grid-cols-2">
                 <div className="w-full h-full my-20 pl-2">

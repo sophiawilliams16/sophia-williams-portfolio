@@ -2,6 +2,8 @@
 
 My name is Sophia Williams and I am a web developer! I've developed a website to present five of my best projects in a concise and easily accessible format. Take a look at my work!
 
+View the site live: https://sophia-williams.com/ 
+
 ## Table of Contents
 
 -   [Installation](#installation)

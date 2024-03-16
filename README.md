@@ -7,7 +7,6 @@ View the site live: https://sophia-williams.com/
 ## Table of Contents
 
 -   [Installation](#installation)
--   [Usage](#usage)
 -   [Credits](#credits)
 -   [License](#license)
 -   [Badges](#badges)
@@ -18,9 +17,6 @@ To install the project, download the files from my Github repository here: https
 
 and open the project in VS Code.
 
-## Usage
-
-To visit my site, click here: https://sophiawilliams16.github.io/sophia-williams-portfolio/
 
 ## Credits
 

@@ -4,7 +4,7 @@ const projectList = [
         title: "Chatbot",
         description:
             "Chatbot messaging application using the OpenAI API. The frontend was developed using React and the @chatscope UI kit.",
-        view_link: "https://chatbot-app-wa51.onrender.com/ask",
+        view_link: "https://chatbot-app-wa51.onrender.com",
         git_link: "https://github.com/sophiawilliams16/chatbot-app",
         img: "../../assets/chatbot.png",
         tech: "Javascript, React, Node, Tailwind, @chatscope",

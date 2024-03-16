@@ -1,16 +1,26 @@
 const projectList = [
     {
         id: 1,
+        title: "Chatbot",
+        description:
+            "Chatbot messaging application using the OpenAI API. The frontend was developed using React and the @chatscope UI kit.",
+        view_link: "https://chatbot-app-wa51.onrender.com/ask",
+        git_link: "https://github.com/sophiawilliams16/chatbot-app",
+        img: "../../assets/chatbot.png",
+        tech: "Javascript, React, Node, Tailwind, @chatscope",
+    },
+    {
+        id: 2,
         title: "ZenVest",
         description:
             "Digital finance application for GenZ that harnesses public equity data. Try signing up and creating your own portfolio!",
         view_link: "https://zenvest-60807e9e13ea.herokuapp.com/",
         git_link: "https://github.com/sophiawilliams16/zenvest",
         img: "./assets/zenvest.png",
-        tech: "React, Javascript, MongoDB, Node",
+        tech: "React, Tailwind, Javascript, MongoDB, Node",
     },
     {
-        id: 2,
+        id: 3,
         title: "Mindscape Blog",
         description:
             "Mock technology blog leveraging the MySQL database for content data and authentication. Try signing up and writing your very own post!",
@@ -21,7 +31,7 @@ const projectList = [
         tech: "SQL, Javascript, Handlebars",
     },
     {
-        id: 3,
+        id: 4,
         title: "RandomRecipe.com",
         description:
             "Random Recipie Generator. Select your categories to randomly generate a recipie and a cocktail pairing.",
@@ -30,23 +40,15 @@ const projectList = [
         img: "../../assets/rare.png",
         tech: "SQL, Javascript, HTML/CSS",
     },
-    {
-        id: 4,
-        title: "CLI Python Tutor",
-        description: "AI Tutor specializing in Python. Leverages OpenAI's API and explores principles of prompt engineering using LangChain output parsers.",
-        view_link: "",
-        git_link: "https://github.com/sophiawilliams16/AMA-CLI-Application",
-        img: "../../assets/backend.png",
-        tech: "OpenAI, LangChain, Javascript, Node",
-    },
     // {
     //     id: 5,
-    //     title: "Work Day Scheduler",
-    //     description: "Dynamic Work Day Scheduler using local storage",
-    //     view_link: "https://sophiawilliams16.github.io/dynamic-schedule/",
-    //     git_link: "https://github.com/sophiawilliams16/dynamic-schedule",
-    //     img: "../../assets/comingsoon.png",
-    //     tech: "Javascript, Bootstrap, JQuery",
+    //     title: "CLI Python Tutor",
+    //     description:
+    //         "AI Tutor specializing in Python. Leverages OpenAI's API and explores principles of prompt engineering using LangChain output parsers.",
+    //     view_link: "",
+    //     git_link: "https://github.com/sophiawilliams16/AMA-CLI-Application",
+    //     img: "../../assets/backend.png",
+    //     tech: "OpenAI, LangChain, Javascript, Node",
     // },
     // {
     //     id: 6,

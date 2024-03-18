@@ -12,7 +12,7 @@ const projectList = [
     {
         id: 2,
         title: "Product Site",
-        description: "A simple product site built using Next.js",
+        description: "A simple product site built using Next.js and Tailwind with DaisyUI. Explore the users page and try out dark mode.",
         view_link: "https://nextjs-practice.onrender.com/",
         git_link: "https://github.com/sophiawilliams16/nextjs-practice",
         img: "./assets/wellness.png",

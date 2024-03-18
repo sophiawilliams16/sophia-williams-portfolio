@@ -3,14 +3,23 @@ const projectList = [
         id: 1,
         title: "Chatbot",
         description:
-            "Chatbot messaging application using the OpenAI API. The frontend was developed using React and the @chatscope UI kit.",
+            "Chatbot messaging application using the OpenAI API. The frontend was developed using React, DaisyUI and the @chatscope UI kit.",
         view_link: "https://chatbot-app-wa51.onrender.com",
         git_link: "https://github.com/sophiawilliams16/chatbot-app",
         img: "../../assets/chatbot.png",
-        tech: "Javascript, React, Node, Tailwind, @chatscope",
+        tech: "Javascript, React, Node, Tailwind, DaisyUI, @chatscope",
     },
     {
         id: 2,
+        title: "Product Site",
+        description: "A simple product site built using Next.js",
+        view_link: "https://nextjs-practice.onrender.com/",
+        git_link: "https://github.com/sophiawilliams16/nextjs-practice",
+        img: "./assets/wellness.png",
+        tech: "Next.js, React, Tailwind, Javascript, DaisyUI, Node",
+    },
+    {
+        id: 3,
         title: "ZenVest",
         description:
             "Digital finance application for GenZ that harnesses public equity data. Try signing up and creating your own portfolio!",
@@ -20,7 +29,7 @@ const projectList = [
         tech: "React, Tailwind, Javascript, MongoDB, Node",
     },
     {
-        id: 3,
+        id: 4,
         title: "Mindscape Blog",
         description:
             "Mock technology blog leveraging the MySQL database for content data and authentication. Try signing up and writing your very own post!",
@@ -31,7 +40,7 @@ const projectList = [
         tech: "SQL, Javascript, Handlebars",
     },
     {
-        id: 4,
+        id: 5,
         title: "RandomRecipe.com",
         description:
             "Random Recipie Generator. Select your categories to randomly generate a recipie and a cocktail pairing.",
